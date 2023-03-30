@@ -1,0 +1,12 @@
+sudo apt-get install python3-venv
+
+cd /ruta/a/mi/proyecto
+
+python3 -m venv nombre_del_entorno
+
+python3 -m venv mi_entorno
+
+source nombre_del_entorno/bin/activate
+
+source mi_entorno/bin/activate
+
