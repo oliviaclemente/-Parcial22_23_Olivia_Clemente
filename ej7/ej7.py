@@ -65,3 +65,4 @@ print('p1 / p2 =', p4)
 # eliminar el término de grado 2 de p1
 p5 = p1.eliminar_termino(2)
 print('p1 sin el término de grado 2 =', p5)
+ 
